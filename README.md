@@ -1,5 +1,4 @@
 ###Canyon Racer.
-=============
 An HTML5 game I built from scratch, in Javascript.
 
 https://github.com/jyli7/canyon_racer
