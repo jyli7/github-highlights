@@ -2,6 +2,7 @@
 An HTML5 game I built from scratch, in Javascript.
 
 https://github.com/jyli7/canyon_racer
+
 www.playcanyonracer.com
 
 ###Lattice.
@@ -13,6 +14,7 @@ https://github.com/jyli7/lattice
 Uses the Hunch API to generate group movie recommendations.
 
 https://github.com/jyli7/group_recs
+
 http://groun.ch/login
 
 
@@ -20,6 +22,7 @@ http://groun.ch/login
 The first project I ever made. Better course selection for Yale Law School students.
 
 https://github.com/jyli7/yls_courses
+
 www.ylsclassation.com
 
 ###Game of Life, in Clojure.
