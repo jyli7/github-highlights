@@ -1,17 +1,17 @@
 ###Canyon Racer.
-An HTML5 game I built from scratch, in Javascript.
+An HTML5 game I built from scratch, in Javascript. Has 3 (fun!) levels of gameplay and 3 levels of difficulty.
 
 https://github.com/jyli7/canyon_racer
 
 www.playcanyonracer.com
 
 ###Lattice.
-A framework for making HTML5/Javascript games. Developed this after building Canyon Racer.
+A framework for making HTML5/Javascript games. Extracted this from Canyon Racer.
 
 https://github.com/jyli7/lattice
 
 ###Grounch.
-Uses the Hunch API to generate group movie recommendations.
+Uses the Hunch API to generate group movie recommendations. (Rails)
 
 https://github.com/jyli7/group_recs
 
@@ -19,7 +19,7 @@ http://groun.ch/login
 
 
 ###YLS Class Action.
-The first project I ever made. Better course selection for Yale Law School students.
+The first project I ever made. Better course selection for Yale Law School students. (Rails).
 
 https://github.com/jyli7/yls_courses
 
