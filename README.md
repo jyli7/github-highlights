@@ -19,7 +19,7 @@ http://groun.ch/login
 
 
 ###YLS Class Action.
-The first project I ever made. Better course selection for Yale Law School students. Admittedly, not proud of the code, but is my most popular project to date (from a user count perspective)! (Rails, jQuery).
+The first project I ever made. Better course selection for Yale Law School students. Admittedly, not proud of the code, but is my most popular project to date (from a user count perspective - this is used by most students at Yale)! (Rails, jQuery).
 
 https://github.com/jyli7/yls_courses
 
