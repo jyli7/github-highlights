@@ -14,12 +14,11 @@ https://github.com/jyli7/lattice
 Uses the Hunch API to generate group movie recommendations. (Rails)
 
 https://github.com/jyli7/group_recs
-
 http://groun.ch/login
 
 
 ###YLS Class Action.
-The first project I ever made. Better course selection for Yale Law School students. (Rails).
+The first project I ever made. Better course selection for Yale Law School students. Admittedly, not proud of the code, but is my most popular project to date (from a user count perspective)! (Rails, jQuery).
 
 https://github.com/jyli7/yls_courses
 
