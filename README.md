@@ -14,6 +14,7 @@ https://github.com/jyli7/lattice
 Uses the Hunch API to generate group movie recommendations. (Rails)
 
 https://github.com/jyli7/group_recs
+
 http://groun.ch/login
 
 
