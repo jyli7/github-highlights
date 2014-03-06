@@ -30,4 +30,4 @@ Dinky but somewhat clean implementation of Conway's Game of Life, from when I wa
 https://github.com/jyli7/game-of-life
 
 ---
-Finally, in addition to these solo projects and in addition to my work for Codecademy and Pivotal Labs, I've worked on freelance projects with a group at Stanford (Rails/JS App developed with TDD, called "Crowd Consensus" - available at https://crowdconsensus.herokuapp.com/) and Tribeca Film Festival (www.tribecafilm.com - large codebase, Rails/JS/Mongo), among others. I do this through a web development shop that I run, called Qualia Studios: http://www.meetqualia.com/.
+Finally, in addition to these solo projects and in addition to my work for Codecademy and Pivotal Labs, I've worked on freelance projects with a group at Stanford (Rails/JS App developed with TDD, called [Crowd Consensus](https://crowdconsensus.herokuapp.com/) and [Tribeca Film Festival](www.tribecafilm.com) (Rails/JS/Mongo), among others. I do this through a web development shop that I run, called [Qualia Studios](http://www.meetqualia.com).
