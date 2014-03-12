@@ -5,7 +5,7 @@ https://github.com/jyli7/canyon_racer
 
 www.playcanyonracer.com
 
-###Lattice.
+###lattice.js
 A framework for making HTML5/Javascript games. Extracted this from Canyon Racer.
 
 https://github.com/jyli7/lattice
