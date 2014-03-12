@@ -10,6 +10,14 @@ A framework for making HTML5/Javascript games. Extracted this from Canyon Racer.
 
 https://github.com/jyli7/lattice
 
+###endless-input.js
+Javascript module for accepting user input in a slick, "endless" way.
+
+https://github.com/jyli7/endless-input
+
+http://www.jylcreations.com/endless-input
+
+
 ###Grounch.
 Uses the Hunch API to generate group movie recommendations. (Rails)
 
