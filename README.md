@@ -15,9 +15,6 @@ Javascript module for accepting user input in a slick, "endless" way.
 
 https://github.com/jyli7/endless-input
 
-http://www.jylcreations.com/endless-input
-
-
 ###Grounch.
 Uses the Hunch API to generate group movie recommendations. (Rails)
 
@@ -31,7 +28,7 @@ The first project I ever made. Better course selection for Yale Law School stude
 
 https://github.com/jyli7/yls_courses
 
-www.ylsclassation.com
+www.ylsclassaction.com
 
 ###Game of Life, in Clojure.
 Dinky but somewhat clean implementation of Conway's Game of Life, from when I was learning basic Clojure during Summer 2013.
