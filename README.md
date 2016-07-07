@@ -33,4 +33,4 @@ Dinky but somewhat clean implementation of Conway's Game of Life, from when I wa
 https://github.com/jyli7/game-of-life
 
 ---
-Finally, in addition to these solo projects and in addition to my work for Codecademy and Pivotal Labs, I've worked for small and mid-size startups through a web development agency that I founded, Qualia Studios. Clients include [Tribeca Film Festival](www.tribecafilm.com) and Stanford University.
+Finally, in addition to these solo projects and in addition to my work for Codecademy and Pivotal Labs, I've worked for small and mid-size startups through a web development agency that I founded, Qualia Studios. Clients include [Tribeca Film Festival](http://www.tribecafilm.com) and Stanford University.
