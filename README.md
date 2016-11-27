@@ -10,6 +10,13 @@ A framework for making HTML5/Javascript games. Extracted this from Canyon Racer.
 
 https://github.com/jyli7/lattice
 
+###Stacks
+Stacks is an iOS app (built with Angular.js and the Ionic Hybrid Framework) that helps you remember the tidbits of knowledge - new words, facts, news clippings, etc. - that you come across during the day.
+
+Stacks is currently in beta.
+
+https://github.com/jyli7/stacks
+
 ###Roadmapper
 Roadmapper provides high-level, lay of the land guides - what we call roadmaps - to help people learn how to best learn a skill or achieve a life goal. Roadmaps cover a wide range of topics - e.g. how to learn to code, or how to learn Chinese - and are written by ordinary people who have learned the skill already and want to share what they wish they had known, before they started out themselves. 
 
@@ -31,6 +38,3 @@ www.ylsclassaction.com
 Dinky but somewhat clean implementation of Conway's Game of Life, from when I was learning basic Clojure during Summer 2013.
 
 https://github.com/jyli7/game-of-life
-
----
-Finally, in addition to these solo projects and in addition to my work for Codecademy and Pivotal Labs, I've worked for small and mid-size startups through a web development agency that I founded, Qualia Studios. Clients include [Tribeca Film Festival](http://www.tribecafilm.com) and Stanford University.
