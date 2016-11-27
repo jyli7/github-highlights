@@ -35,6 +35,6 @@ https://github.com/jyli7/yls_courses
 www.ylsclassaction.com
 
 ###Game of Life, in Clojure.
-Dinky but somewhat clean implementation of Conway's Game of Life, from when I was learning basic Clojure during Summer 2013.
+Dinky but clean implementation of Conway's Game of Life, from when I was learning basic Clojure during Summer 2013.
 
 https://github.com/jyli7/game-of-life
